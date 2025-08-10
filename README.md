@@ -22,15 +22,14 @@
 ---
 
 ## 📊 GitHub Stats  
-![Sian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SianSoj&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=SianSoj&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SianSoj&layout=compact&theme=tokyonight)
+![Sian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sian-soj&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Sian-soj&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sian-soj&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=About.me)](https://YOUR-PORTFOLIO-LINK)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sian-soj/)   
 
 ---
 
