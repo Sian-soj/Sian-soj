@@ -21,6 +21,17 @@
 
 ---
 
+### 🛠️ Language and tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+
 ## 📊 GitHub Stats  
 ![Sian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sian-soj&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sian-soj&theme=tokyonight)  
