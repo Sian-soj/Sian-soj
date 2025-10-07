@@ -9,7 +9,7 @@
 ## 🛠 Tech & Tools I Work With
 - **Hardware:** Arduino Uno, ESP32, Sensors, Actuators, Breadboards, PCB Prototyping  
 - **Software:** C, C++, Python, JavaScript (basics), HTML/CSS  
-- **Tools:** VS Code, Arduino IDE, Git, CapCut, Premiere Pro  
+- **Tools:** VS Code, Arduino IDE, Git, Kicad, Proteus 
 
 ---
 
