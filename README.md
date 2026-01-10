@@ -37,8 +37,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sian-soj&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sian-soj&layout=compact&theme=tokyonight)
 
-My Link: ![My space](https://linkspaces.me/sian-soj)
-
 ---
 
 ## 🌐 Connect with Me
