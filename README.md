@@ -32,10 +32,13 @@
 ![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 
-## 📊 GitHub Stats  
-![Sian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sian-soj&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Sian-soj&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sian-soj&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+
+![Sian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sian-soj&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sian-soj&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sian-soj&layout=compact&theme=tokyonight)
 
 ---
 
