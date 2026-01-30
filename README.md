@@ -34,11 +34,24 @@
 
 ## 📊 GitHub Stats
 
-![Sian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sian-soj&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sian-soj&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.demolab.com?user=Sian-soj&theme=tokyonight&cache_seconds=1800"
+    height="165"
+  />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sian-soj&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sian-soj&layout=compact&theme=tokyonight&cache_seconds=1800"
+    height="165"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sian-soj&layout=compact&theme=tokyonight)
 
 ---
 
